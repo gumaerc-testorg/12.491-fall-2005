@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section contain two written assignments for the course,
+  including diagram.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
