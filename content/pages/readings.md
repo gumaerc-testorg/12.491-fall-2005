@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Readings section contains the list of required and recommended readings
+  for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 91bf33b0-e0db-2c80-6f40-3521e95dc59e
 ---
@@ -33,7 +38,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Allard, B., M.-N. Rager, and J. Templier. "Occurrence of high molecular weight lipids (C80+) in the trilaminar outer cell walls of some freshwater microalgae. A reappraisal of algaenan structure." _Org Geochem_ 33 (2002): 789-801.  
+Allard, B., M.-N. Rager, and J. Templier. "Occurrence of high molecular weight lipids (C{{< sub "80+" >}}) in the trilaminar outer cell walls of some freshwater microalgae. A reappraisal of algaenan structure." _Org Geochem_ 33 (2002): 789-801.  
   
 Derenne, S., and C. Largeau. "A review of some important families of refractory macromolecules: composition, origin and fate in soils and sediments." _Soil Science_ 166 (2001): 833-847.  
   

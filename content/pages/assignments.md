@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignment section contain two written assignments for the course,
+  including diagram.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 742b69c0-30da-6c3a-a8d5-74deda3b8dae
 ---
